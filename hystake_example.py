@@ -7,7 +7,7 @@ import json
 # Find / regenerate your API token in Account Info -> Developer Info
 token = "Enter your API token here"
 
-# the full dataset ID is composed of 3 parts: user ID, product ID, 
+# the full dataset ID is composed of 3 parts: user ID, product ID, table ID
 user_id = "Enter your user ID here"
 product_id = "Enter your product ID here"
 table_id = "Enter your table ID here"
