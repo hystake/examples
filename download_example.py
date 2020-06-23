@@ -5,7 +5,7 @@ import csv
 import json
 
 '''
-For more details: https://hystakenewapi.docs.apiary.io/
+For more details: https://hystakeapialpha.docs.apiary.io/
 
 A download query has 3 components:
 1. required: API key
