@@ -20,7 +20,7 @@ apikey = "Enter your API token here"
 dataset_code = "Enter the dataset code here"
 
 # query with URI parameters: filter, sort, limit, etc. API doc link: https://hystakenewapi.docs.apiary.io/#/reference/0/read-dataset
-query = "(optional) Enter the query here, or leave it blank"
+query = ""  # (optional) Enter the query here, or leave it blank
 
 # request data (see examples below)
 r = requests.get('http://dev.hystake.com/api/v1/dataset/' + dataset_code + '?key=' + apikey + query)
